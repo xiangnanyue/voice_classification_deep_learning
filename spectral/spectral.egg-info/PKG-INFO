@@ -1,0 +1,33 @@
+Metadata-Version: 1.1
+Name: spectral
+Version: 0.1.7
+Summary: Python package for extracing Mel and MFCC features from speech.
+Home-page: https://github.com/mwv/spectral
+Author: Maarten Versteegh
+Author-email: maartenversteegh@gmail.com
+License: BSD
+Description-Content-Type: UNKNOWN
+Description: ===============================
+        Spectral
+        ===============================
+        
+        Python package for extracing Mel and MFCC features from speech.
+        
+        * Free software: BSD license
+        
+        Features
+        --------
+        
+        * Mel and MFCC feature extraction
+        
+Keywords: spectral
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.3
